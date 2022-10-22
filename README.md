@@ -1,5 +1,6 @@
 ![](./resources/images/web_demo.png)
-##To Run the demo:
+
+###To Run the demo:
 - composer install (PHP Dependencies)
 - npm i  (node dependencies)
 - npm mix (build assets)

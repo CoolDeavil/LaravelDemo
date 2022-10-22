@@ -3,7 +3,8 @@
     "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "serve": "php artisan serve"
+        "serve": "php artisan serve",
+        "php": "php -S localhost:8000 -d display_errors=1 -t public/"
     },
     "devDependencies": {
         "axios": "^0.27",
